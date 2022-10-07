@@ -1,0 +1,23 @@
+.container-image {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+
+
+.name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 6vw;
+  }
+
+
+h2{
+    font-size: 6vw;
+}
+
+.about {
+    background-color: rgb(231, 231, 255);
+  }
