@@ -13,11 +13,29 @@
     font-size: 6vw;
   }
 
-
-h2{
-    font-size: 6vw;
-}
-
 .about {
     background-color: rgb(231, 231, 255);
   }
+
+.about-me{
+    text-align: center;
+    font-size: 4vw;
+    padding-top: 3%;
+}
+
+.mypic{
+    width: 50%;
+}
+
+#mypicid{
+    text-align: center;
+}
+
+#myAboutId{
+    padding-top: 5%;
+    padding-left: 7%;
+}
+
+.container-fluid-about{
+    padding-bottom: 5%;
+}
