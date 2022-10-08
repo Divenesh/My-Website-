@@ -10,17 +10,18 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 6vw;
+    font-size: 8vw;
   }
+
 
 .about {
     background-color: rgb(231, 231, 255);
   }
 
 .about-me{
-    text-align: center;
     font-size: 4vw;
-    padding-top: 3%;
+    padding-top: 5%;
+    padding-left: 15%;
 }
 
 .mypic{
@@ -37,25 +38,52 @@
     padding-left: 7%;
 }
 
-.container-fluid-about{
-    padding-bottom: 5%;
-}
-
 .mypros{
     text-align: center;
     font-size: 4vw;
     padding-top: 3%;
 }
 
-.pros{
-    background-color: rgb(249, 255, 199);
-
-}
-
 .col{
-    padding-top: 10%;
+    padding-top: 5%;
+    padding-left: 50%;
 }
 
 .img{
-    width: 40%;
+    width: 30%;
+}
+
+.left{
+    padding-left: 10%;
+}
+
+.right{
+    padding-right: 10%;
+}
+
+.context{
+    font-size: 2vw;
+}
+
+#right-text{
+    position: relative;
+    right: 10%;
+}
+
+#left-text{
+    position: relative;
+    left: 10%;
+}
+
+.works{
+    background-color: antiquewhite;
+}
+
+.padded{
+    /* padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%; */
+    justify-content: center;
+    align-items: center;
 }
