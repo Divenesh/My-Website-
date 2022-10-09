@@ -21,7 +21,7 @@
 .about-me{
     font-size: 4vw;
     padding-top: 5%;
-    padding-left: 15%;
+    padding-left: 13%;
 }
 
 .mypic{
@@ -80,10 +80,43 @@
 }
 
 .padded{
-    /* padding-left: 20%;
-    padding-right: 20%;
+
     padding-top: 5%;
-    padding-bottom: 5%; */
-    justify-content: center;
-    align-items: center;
+    padding-bottom: 5%;
+    padding-left: 8%;
+    padding-right: 8%;
+
+}
+
+.card-edited{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 10%;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 2%;
+}
+
+img.card-img{
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+}
+
+
+.btn-contact{
+    background-color: #ffffff;
+    color: rgb(160, 160, 160);
+    padding: 15px 32px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2vw;
 }
