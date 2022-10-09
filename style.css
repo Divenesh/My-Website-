@@ -21,7 +21,7 @@
 .about-me{
     font-size: 4vw;
     padding-top: 5%;
-    padding-left: 15%;
+    padding-left: 13%;
 }
 
 .mypic{
@@ -109,12 +109,14 @@ img.card-img{
 }
 
 
-.btn{
-    color: black;
-    border-color: #fff;
-    
-}
-
-.btn:hover{
-    color: black;
+.btn-contact{
+    background-color: #ffffff;
+    color: rgb(160, 160, 160);
+    padding: 15px 32px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 150%;
 }
