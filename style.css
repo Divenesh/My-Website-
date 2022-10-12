@@ -1,3 +1,4 @@
+/* Top Section */
 .container-image {
     position: relative;
     text-align: center;
@@ -16,7 +17,7 @@
     color: rgb(97, 0, 0);
   }
 
-
+/* About me Section */
 .about {
     background-color: rgb(231, 231, 255);
   }
@@ -43,6 +44,7 @@
     padding-left: 7%;
 }
 
+/* My Pros Section */
 .mypros{
     text-align: center;
     font-size: 4vw;
@@ -82,6 +84,7 @@
     left: 10%;
 }
 
+/* My Projects Section */
 .works{
     background-color: antiquewhite;
 }
@@ -115,7 +118,7 @@ img.card-img{
     border-top-left-radius: 10%;
 }
 
-
+/* Contact Me Section */
 .btn-contact{
     background-color: #ffffff;
     color: rgb(160, 160, 160);
